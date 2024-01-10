@@ -71,6 +71,10 @@ The Android To-Do List Application is designed to help users organize and manage
 + Creating a new task:
 + <img src="https://github.com/Saibaghiradh/Keka_Task_ToDo/assets/100903637/546c1a56-6be6-479c-9c1f-a2515ea1e4dd" width="200" height="400" />
 
++ Adding date:
++  <img src="https://github.com/Saibaghiradh/Keka_Task_ToDo/assets/100903637/c2cfe0e6-3c3a-4495-913d-c5e19f66417a" width="200" height="400" />
+
+
 + Updating an existing task:
 + <img src="https://github.com/Saibaghiradh/Keka_Task_ToDo/assets/100903637/d6a8925e-5e94-4709-9681-cafba2a1f168" width="200" height="400" />
 
