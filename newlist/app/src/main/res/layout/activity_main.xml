@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/maindo"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="135dp"
+        android:layout_height="115dp"
+        app:srcCompat="@drawable/do2" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="435dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="142dp"
+        android:layout_marginTop="-80dp"
+        android:text="My TO-DO"
+        android:textSize="40dp" />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="92dp"
+        android:layout_marginTop="25dp"
+        android:hint="Enter Task-Name"/>
+
+    <EditText
+        android:id="@+id/marks"
+        android:layout_width="match_parent"
+        android:layout_height="92dp"
+        android:hint="Description of that Task"/>
+    <EditText
+        android:id="@+id/id3"
+        android:layout_width="match_parent"
+        android:layout_height="92dp"
+        android:hint="Choose due Date"
+        />
+        <EditText
+        android:id="@+id/id1"
+        android:layout_width="match_parent"
+        android:layout_height="84dp"
+        android:hint="Priority Level" />
+
+
+    <EditText
+        android:id="@+id/ids"
+        android:layout_width="match_parent"
+        android:layout_height="84dp"
+        android:hint="Enter id to delete, update" />
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="155dp"
+        android:layout_height="63dp"
+        android:layout_marginBottom="-50dp"
+        android:backgroundTint="#16a87a"
+        android:text="Add Task"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="25dp"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/show"
+        android:layout_width="155dp"
+        android:layout_height="63dp"
+        android:backgroundTint="#16a87a"
+        android:layout_marginLeft="225dp"
+        android:layout_marginTop="-15dp"
+        android:text="My Tasks"
+        android:textSize="20dp"
+        />
+
+    <Button
+        android:id="@+id/delete"
+        android:layout_width="155dp"
+        android:layout_height="63dp"
+        android:layout_marginLeft="225dp"
+        android:backgroundTint="#16a87a"
+        android:text="Delete Task"
+        android:textSize="20dp"
+      />
+
+    <Button
+        android:id="@+id/update"
+        android:layout_width="155dp"
+        android:layout_height="63dp"
+        android:backgroundTint="#16a87a"
+        android:text="Edit Task"
+        android:textSize="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="-62dp"/>
+
+
+</LinearLayout>
