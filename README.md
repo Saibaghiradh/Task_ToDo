@@ -58,5 +58,28 @@ The Android To-Do List Application is designed to help users organize and manage
 + Use Android Studio's debugging tools to identify and fix issues.
 #### Note: Simply download zip code, import it into Android Studio and run on the emulator or physical device.
 
-### Screenshots of the app:
+### Screenshots of the app from virtual device:
++ LOGO:
++  <img src="https://github.com/Saibaghiradh/Keka_Task_ToDo/assets/100903637/c41d92b6-6a2b-46e9-8a64-e3df2e368ee7" width="200" height="400" />
 
++ Splash Activity:
++ <img src="https://github.com/Saibaghiradh/Keka_Task_ToDo/assets/100903637/c6924221-dc7f-425a-8ef2-9e144f6c51d7" width="200" height="400" />
+
++ User Interface:
++ <img src="https://github.com/Saibaghiradh/Keka_Task_ToDo/assets/100903637/04354c40-ed83-48d8-af3e-b9d4b36a00db" width="200" height="400" />
+
++ Creating a new task:
++ <img src="https://github.com/Saibaghiradh/Keka_Task_ToDo/assets/100903637/546c1a56-6be6-479c-9c1f-a2515ea1e4dd" width="200" height="400" />
+
++ Updating an existing task:
++ <img src="https://github.com/Saibaghiradh/Keka_Task_ToDo/assets/100903637/d6a8925e-5e94-4709-9681-cafba2a1f168" width="200" height="400" />
+
++ Deleting a task:
++ <img src="https://github.com/Saibaghiradh/Keka_Task_ToDo/assets/100903637/51080033-a4e4-4c2f-abd5-5a74bf2ca91a" width="200" height="400" />
+
++ All Tasks:
++  <img src="https://github.com/Saibaghiradh/Keka_Task_ToDo/assets/100903637/7073ae7e-f888-4bcc-9317-74e8655a3b22" width="200" height="400" />
++  <img src="https://github.com/Saibaghiradh/Keka_Task_ToDo/assets/100903637/2e436485-551d-4a8c-9fc9-ec8a8f85ecaf" width="200" height="400" />
+
+
+  
